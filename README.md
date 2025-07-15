@@ -19,10 +19,8 @@ The goal of this project was to create a calculator that is both **aesthetically
 ---
 
 ## 📸 Screenshot
+<img width="705" height="682" alt="image" src="https://github.com/user-attachments/assets/b3f2b1ae-b216-4fca-9899-1258de32abb8" />
 
-![Calculator Screenshot](./public/screenshot.png)
-
-> Make sure to place a file named `screenshot.png` inside the `public/` folder, or update the path above accordingly.
 
 ---
 
