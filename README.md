@@ -1,8 +1,56 @@
-# React + Vite
+# 🔢 React Calculator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📝 Description
 
-Currently, two official plugins are available:
+A simple, responsive, and animated calculator built with **React**, **Tailwind CSS**, and **Framer Motion**.  
+It supports both **mouse** and **keyboard input** for a smooth and accessible user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a fully functional calculator built as a front-end development exercise using **React** and **Tailwind CSS**.  
+It offers:
+
+- A clean and intuitive user interface
+- Responsive layout for mobile and desktop
+- Smooth animations on load and interaction
+- Keyboard support for fast input
+- Light and dark theme compatibility
+
+The goal of this project was to create a calculator that is both **aesthetically pleasing** and **user-friendly**, while also practicing React component architecture and animations with Framer Motion.
+
+---
+
+## 📸 Screenshot
+
+![Calculator Screenshot](./public/screenshot.png)
+
+> Make sure to place a file named `screenshot.png` inside the `public/` folder, or update the path above accordingly.
+
+---
+
+## 🚀 Features
+
+- 🔢 Basic arithmetic operations: `+`, `-`, `×`, `÷`
+- 🎹 Full keyboard support
+- 🌗 Dark mode support via Tailwind
+- 📱 Fully responsive design
+- 🎬 Smooth animations with Framer Motion
+- 🧠 Input validation and error handling
+
+---
+
+## 🛠 Tech Stack
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Vite](https://vitejs.dev/) (for fast development)
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/react-calculator.git
+cd react-calculator
+npm install
+npm run dev
+```
